@@ -66,7 +66,7 @@
     display: flex;
     align-items: center;
     margin-top: 40px;
-    background-color: var(--primar-color);
+    background-color: var(--primary-color);
     transition: 400ms;
 
     
